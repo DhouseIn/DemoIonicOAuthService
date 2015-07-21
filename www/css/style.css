@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.padding {
+	padding: 10px 10px 2px 10px;
+}
+.socialImg {
+	width: 25%;
+	float: left;
+}
+.socialText {
+	float: left;	
+}
